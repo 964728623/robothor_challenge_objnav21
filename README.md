@@ -1,1 +1,1 @@
-We use the [baseline](https://allenact.org/projects/objectnav_baselines/) provided by the competition official. 
+We use the [baseline](https://allenact.org/projects/objectnav_baselines/) provided by the competition official and make changes based on the official [allenact](https://github.com/allenai/allenact/) framework. Our changed model is in ./
